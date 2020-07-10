@@ -16,3 +16,5 @@
 -git branch
 -git checkout -b branch_name/-git checkout branch_name(master)
 -git brand -D branch_name(delete the branch name)
+-git clon repo_link
+-git log --oneline --graph
